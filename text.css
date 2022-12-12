@@ -1,0 +1,26 @@
+
+.t
+{
+  margin-left: 450px;  
+}
+table 
+{
+    background-color: beige;
+    border-collapse: collapse;
+    width: 50%;
+    box-shadow: 2px 2px 4px  #444443;
+    font-size: 18px;
+}
+td,th
+{
+    border: 1px solid #e78484;
+    text-align: center;
+    padding: 8px;
+}
+
+.t table tr td a
+{
+  text-decoration: none;
+
+}
+
